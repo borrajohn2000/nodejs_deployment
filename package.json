@@ -4,7 +4,7 @@
   "description": "Complex Node.js Task Manager with UI, Auth, MongoDB",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
     "build": "echo Building app...",
   },
   "dependencies": {
@@ -12,6 +12,6 @@
     "mongoose": "^7.0.0",
     "express-session": "^1.17.3",
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.20.2"
+    "body-parser": "^1.20.2",
   }
 }
